@@ -35,7 +35,8 @@
   position: absolute;
 }
 
-.header-menu a:hover:after {
+.header-menu a:hover:after,
+.header-menu a.ativo::after {
   width: 100%; /* Para pegar toda a largura do elemento pai */
 }
 
