@@ -46,7 +46,7 @@ O site apresenta as bicicletas disponíveis para compra, seguros oferecidos, tec
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/bikcraft.git
+   git clone https://github.com/brcsilveira/bikcraft.git
    ```
 
 2. Abra o arquivo `index.html` em um navegador web.
